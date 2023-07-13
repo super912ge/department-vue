@@ -14,6 +14,8 @@ import "uno.css";
 
 // If you want to use ElMessage, import it.
 import "element-plus/theme-chalk/src/message.scss";
+import "element-plus/theme-chalk/src/tree.scss"
+import "element-plus/theme-chalk/src/input.scss"
 
 const app = createApp(App);
 // app.use(ElementPlus);

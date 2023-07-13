@@ -10,8 +10,10 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "element-plus": "^2.3.6",
-    "vue": "^3.3.4"
+    "@element-plus/theme-chalk": "^2.2.16",
+    "element-plus": "^2.3.7",
+    "vue": "^3.3.4",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@iconify-json/ep": "^1.1.10",
